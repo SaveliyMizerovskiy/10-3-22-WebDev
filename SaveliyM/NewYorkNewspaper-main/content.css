@@ -1,24 +1,37 @@
 .page {
-  width:
-  height:
+  width: 410px;
+  height: 900px;
+  background-color: #D3D0CB;
 }
 
 #article_title {
-
+  letter-spacing:3px;
+  font-weight: 1000;
+  line-height: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: xx-large;
+  color: #461220;
 }
 
 #intro {
-
+line-height: 40px;
+font-weight: 1000;
+font-size: medium;
+color: #8C2F39;
 }
 
 .question{
-
+line-height: 30px;
+font-size: large;
+color: #4C5760;
 }
 
 .answer{
-
+font-size: medium;
+color: #839788;
 }
 
 #block_quote {
-
+font-size: x-large;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }

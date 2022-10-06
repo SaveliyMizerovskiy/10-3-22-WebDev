@@ -17,6 +17,7 @@
   padding-bottom: 0px;
   margin-bottom: 0;
   line-height: 50px;
+  text-shadow: red 2px 5px;
 }
 
 #subtitle {
@@ -29,10 +30,15 @@
   padding-left: 50px;
   font-size: medium;
   padding-top: 0px;
+  box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
 }
 
 #cover_image {
  max-width: 250px;
  max-height: 200px;
- text-align: center;
+ display: block;
+ margin-top: 50px;
+ margin-left: auto;
+ margin-right: auto;
+ border-radius: 50% 20% / 10% 40%;
 }
